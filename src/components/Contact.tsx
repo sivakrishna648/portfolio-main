@@ -97,7 +97,7 @@ const Contact: React.FC = () => {
                 <h4 className="text-lg font-semibold text-white mb-4">Follow Me</h4>
                 <div className="flex space-x-4">
                   <a 
-                    href="https://github.com" 
+                    href="https://github.com/sivakrishna648" 
                     target="https://github.com/sivakrishna648" 
                     rel="noopener noreferrer"
                     title="GitHub Profile"
@@ -106,7 +106,7 @@ const Contact: React.FC = () => {
                     <Github size={20} />
                   </a>
                   <a 
-                    href="https://linkedin.com" 
+                    href="https://www.linkedin.com/in/sivakrishna-gudipudi-670015247/" 
                     target="https://www.linkedin.com/in/sivakrishna-gudipudi-670015247/" 
                     rel="noopener noreferrer"
                     title="LinkedIn Profile"
